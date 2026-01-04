@@ -1,0 +1,1 @@
+web: python launch_24_7.py
